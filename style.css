@@ -1,0 +1,35 @@
+/* Font Styles and Colors */
+
+h1 {
+    color: #03a3df;
+    font-family:Arial, Helvetica, sans-serif;
+    font-style: bold;
+    size: 40px;
+
+  }
+
+
+h2{
+    color: #1b447f;
+    font-family:Arial, Helvetica, sans-serif;
+    font-style: bold;
+    size: 24px;
+
+  }
+
+h3 {
+    color: #ecb722
+    font-family:Arial, Helvetica, sans-serif;
+    font-style: bold;
+    size: 17px;
+
+  }
+
+
+p {
+    color: #444444;
+    font-family:Arial, Helvetica, sans-serif;
+    font-style: regular;
+    size: 17px;
+
+  }
