@@ -1,3 +1,30 @@
+
+
+.flex-container {
+  display: flex;
+  background-color: DodgerBlue;
+  flex-flow: row wrap;
+  height: auto; 
+  justify-content: space-around;
+}
+
+.item {
+  width: 500px; 
+  height: 500px; 
+  margin: auto;  
+  padding: 100px;
+}
+
+
+.primarynav {background-color: #f768c3;
+  display: flex;
+  flex-flow: row wrap;
+  /* This aligns items to the end line on main-axis */
+  justify-content: space-around;
+}
+
+
+
 /* Font Styles and Colors */
 
 h1 {
@@ -18,7 +45,7 @@ h2{
   }
 
 h3 {
-    color: #ecb722
+    color: #ecb722;
     font-family:Arial, Helvetica, sans-serif;
     font-style: bold;
     size: 17px;
@@ -33,3 +60,4 @@ p {
     size: 17px;
 
   }
+
